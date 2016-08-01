@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hackathon</string>
+    <string name="header_text">Hackathon Avenue Code</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha (opcional)</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Email inválido</string>
+    <string name="error_invalid_password">Senha muito curta</string>
+    <string name="error_incorrect_password">Senha inválida</string>
+    <string name="error_field_required">Campo obrigatório</string>
+    <string name="welcome_string">teste</string>
+</resources>
