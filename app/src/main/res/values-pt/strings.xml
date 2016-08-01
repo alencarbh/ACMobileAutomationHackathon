@@ -3,13 +3,14 @@
     <string name="header_text">Hackathon Avenue Code</string>
 
     <!-- Strings related to login -->
+    <string name="login_title_bar">Bem vindo à Avenue Code! =)</string>
+    <string name="login_welcome_message">Estamos felizes por você ter feito sua inscrição para o nosso Hackathon de Automação Mobile. Por favor faça login para continuar.\n</string>
     <string name="prompt_email">Email</string>
-    <string name="prompt_password">Senha (opcional)</string>
-    <string name="action_sign_in">Entrar</string>
-    <string name="action_sign_in_short">Entrar</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_sign_in_short">Log in</string>
     <string name="error_invalid_email">Email inválido</string>
     <string name="error_invalid_password">Senha muito curta</string>
     <string name="error_incorrect_password">Senha inválida</string>
     <string name="error_field_required">Campo obrigatório</string>
-    <string name="welcome_string">teste</string>
 </resources>
